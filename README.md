@@ -1,10 +1,10 @@
 # Dicee Game
 
-Welcome to the Dicee Game, a simple web-based dice game where two players roll dice to determine the winner.
+Welcome to the Dice Game, a simple web-based dice game where two players roll dice to determine the winner.
 
 ## Description
 
-The Dicee Game is a fun and interactive web game built with HTML, CSS, and JavaScript. It allows two players to roll virtual dice by clicking a "Refresh Me" button. The game generates random numbers for each player, displays the corresponding dice images, and announces the winner or a draw.
+The Dice Game is a fun and interactive web game built with HTML, CSS, and JavaScript. It allows two players to roll virtual dice by clicking a "Refresh Me" button. The game generates random numbers for each player, displays the corresponding dice images, and announces the winner or a draw.
 
 ## Preview
 
@@ -25,7 +25,7 @@ The Dicee Game is a fun and interactive web game built with HTML, CSS, and JavaS
 
 ## Usage
 
-To play the Dicee Game, simply open the HTML file in your web browser and click the "Refresh Me" button to start a new round.
+To play the Dice Game, open the HTML file in your web browser and click the "Refresh Me" button to start a new round.
 
 ## Technologies Used
 
@@ -35,7 +35,7 @@ To play the Dicee Game, simply open the HTML file in your web browser and click 
 
 ## Contact
 
-For inquiries, please contact me at [mail](mailto: hello@abdulmoiz.net). You can also visit my website at [www.abdulmoiz.net](https://www.abdulmoiz.net).
+For inquiries, get in touch with me at [mail](mailto:hello@abdulmoiz.net). You can also visit my website at [abdulmoiz](https://www.abdulmoiz.net).
 
 
 ---
