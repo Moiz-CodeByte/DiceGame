@@ -40,5 +40,5 @@ For inquiries, get in touch with me at [mail](mailto:hello@abdulmoiz.net). You c
 
 ---
 
-Find the live project at [Dicee Game](https://your-website-url.com/dicee).
+Find the live project at [Dicee Game](https://moiz-codebyte.github.io/DiceGame/).
 
